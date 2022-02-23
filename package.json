@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  },
+  "name": "teste_cadastro_centrais",
+  "version": "1.0.0",
+  "main": "cadastrocentrais.test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
